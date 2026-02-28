@@ -32,8 +32,9 @@ A beginner-friendly Hand Cricket web application named "Techtitan T20". Develope
    ```bash
    python app.py
    ```
-4. Open your browser and navigate to `http://127.0.0.1:5000`
+4. Open your browser and navigate to `https://tech-titan-t20.vercel.app/`
 
 ## Tech Stack
 - **Backend:** Python, Flask
 - **Frontend:** HTML5, CSS3, JavaScript
+
