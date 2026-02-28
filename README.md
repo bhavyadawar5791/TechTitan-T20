@@ -38,3 +38,4 @@ A beginner-friendly Hand Cricket web application named "Techtitan T20". Develope
 - **Backend:** Python, Flask
 - **Frontend:** HTML5, CSS3, JavaScript
 
+
